@@ -1,9 +1,8 @@
 {
-         
 "Reward": "ca-app-pub-8278924142679566/3633327904",
 "Inter": "ca-app-pub-8278924142679566/4946409574",
-"version": 12,
-"message": "What's new \nAdded new server",
+"version": 13,
+"message": "ဆာဗာအသစ်တွေထပ်မံဖြည့်ထားပါတယ်ဗျာ့ \nUpdateစာကိုနှိပ်ပါ😊",
 
 "files": [
 
@@ -28,8 +27,13 @@
       
  },
 {
+        //dtac-5
+      "config": "pTu9S2E4f+4IE6MxTTZ4e8dY+97RWIx12+Bv+Uf9hIXntp2M7fT/F9DeLMZdSgnjOn4bjBHGjjnh+fs8DKb2s9IAEjKfFnI6Sp0DZCD0KRucaiafy0+lK2tI79IAPNvcPGox6QCKtyBP4lLml31S++1KZATWER5by3grezGNOYX1WJISHKJD8Dmv0d4SCkM3phiWizqRHoGf5f9Hbcpmlz0LJdGq41TJ/7SNoXd0sfMDBFEa4tLkNkTHrhGUBkdYwQlwKu8hkeqNGoUtRB8z08LFkbLVuuzWwN25wWBy7Pr95oDwteAGERJYqwZkFYv6G68PhuuXYFL4p5aVpSwpWNVlZ57tYwOozazNf1aPrDFtq25cAKnasIKDFRGa3ofJsPCpTmoCQD6ZEbb56ckgeAj+Vfl1+sv3h00lADwbsZc="
+      
+ }, 
+{
         //true-1
-      "config": "1xJp/EoB+slHRFLpt4Y+BY9XKVKI+DuIUB56LWaGtSEPMC5QYbh2pGCkfJRawZq5Pmk3Oanc+WQJOyeHTl/bc1ABK43OmlFs9DpJj1slg85ZkhT3eHcTXpzu4FhCTqWXRErVH3uCJuXhH6p7M9Z6090Mc7SArmag2Bt5uRW8GL/05ocKA3vSQBJyTQKOkOG93A7mByjWRiBqIGxS9G0zB1UykZzdGbPidkZx4zvJcUQhdURV00Oc9KFMKe1ut53g7mIeSanCphqP1ErpyKP8zIqLeD8lFWt8qb/WnJKrzldI6Ihv98cz7jCU/Cg3aoE9MOhoPfxvWU5loh1tIiIegHdHJME2C99chQlofd+2PD5riRqvrNiiCj5xSTIJp3YZ/GR4wwxuKg11rAW1uEmPdbAssUJs2Cq3dNGIpVD8gswV3mvYYOgKvvqGf+7KGFVv"
+      "config": "V3X6qzyZ2njK251QikDcRO99Q4nIKdiD4IiNfXIaTAKmGA816ZTGQiYXEdiiABTbQtDl1H711oqQyzH7fMFA4RtasyPxq3hIw1yrGl+lPs8RmhLn/L76AB17uK/fGVjKCcoFzaj1fccMctvSiyvZ+M9oQZqAe8rlOFfPAckuGHBGgkU7Qd6jrFEDK7Fm5fH25z252yqOtCQWyyYVOIqD5N1SaH/ZM+PjjpxrxM7kG/dVxWCOK4teigJCRSydIKeWOdmsvIbtIuCjrxS+ERFsW+fO9rcCvF/iec3vltMaDvn3o21gdxN0j4GjYWlszU5K48udJ+qKsUAkhcIQudm9tpSyzlKkxdVAmsnE4kWRfQX4vqvOiIc/Xx6oDM6v5Rf3h1HaFOzY/A1Tg2JSgDvKrmY05E0t+RwD+qHHpf5AvjoDr5HbncJdXw=="
       
    },
    {
@@ -45,6 +49,11 @@
 {
         //true-4
       "config": "7RoEcK6dnZVgPdQfJm5cfPFMfu+OUZJx3OewXDw3lxIkPc2qYS9AWtGOa5J0trdsZH0+Kpl6WaLFeOEU/ntlElMHcZZztrbJ694uTCBBr6f52EwDGY78G0fK+J6DBBkk7MBEfCmemviHfwyhMAMSFhctlvSt4SRkyuFk8Idzp/mgbenm02tVyZc6+x7a5WVjx/V5/lsnej6XZftmELoxuXrh3zCl7lkXlqIL/lGiBXjTW9Wat/2cKHkirE8CwDEDw3BKqraYl5fWzNdwjfasKGUJ8IyjHQUAo0HBY602KFtDqgSAIngE6qG+KsbFYuVJihdccQsU9SGcPD7YCGRFx0sJPAkDz51BEmvXfKoB+cpaTXDXEk7XyY/S1E2Glb6fcPGHONl85rryiEXkHPIdsnhlunwXTarqGh5/SZpdp1guv32D"
+      
+ }, 
+{
+        //true-5
+      "config": "oW1zZ02StaFXbC9HLZH5BduWE/b7NXuFFQRENXXeMgD2TkT2lGCEyzPrgRLSwTZ25CKT+UZFJt4ncW5JH1efKx5lpl5wS1gWrZbqh+XskAZWbptZHgHuR7RnUkGc8lLfpLSz9r1yeY7a0A2SE4IndtRjXtkTb2RGEY+lASR/c7P0lGuO0zq1xdF3T+iMVKjxBQ1Lw0WeDoKw3STSgSKGveWiNmS+7AmLDxa9iKlsuOmZ8f6xyXjEcGIkAXpHBS/0jlHLQu2ox9Zh07ImkJ2VOhvzVZqbViCwpR37WznodAIEi/ZbnXHBiYCBGZrhW+wZDFp5kek0fZJDL3SIkZNp0jKlh/MEsJYDF6cmTxNFSS5lR+cpVXQ8zpv7OU7ojpqfyt9qM3gZpyFBV/E0D2gBfhofFPVu6E6Lshn6A0EnRkg="
       
  }, 
 {
@@ -66,7 +75,12 @@
         //ais-4
       "config": "l3VxSxnXqqkLhCZKY815PLxb3Me5mVCNw+18mVGOPqz0fS0X2HYmUU4sOv/WpOR0YYt1PFIS1+8A1SRcq+vkYH+2/IirKpNe4UNauQsvq02hm4mbhBMp6jCQAXmpnmx6Xh9nqd9wHYr/ZLtKyUHlk+eLbIfHrN+nXGDyTHTx4i4lNQAiNzbfPs6TgwJ/+88IWWV+EpKq4/zRFK+6WL93tDhAKQjmslig+9cTLRjtFlwiMg3F9cNo9abqfo378e71wbjOAOWZlnAXPV8vmPz8e0kXuogzCg3xBYKyvfulPABLHX/6QxxxYM+Lp3awDAuXXvqO1n/ZA/ck+BttiNZGRd9ymfmyQWJLkeE2C+3feoN1nTgHbAmz3dzWqEwFezRdipxi1SFrm7SS65G9FCAhUTM0bPMZAWt89+7eIMuV8rmPzL3w47ZY+g=="
       
-   }
+   },
+{
+        //ais-5
+      "config": "PAY6bcHfoV+OL0fcDyke2ac1BOZhrujBR0S/DWCY4E2xUonkVQnrDoARXnCRZ5iyu8MuOdyXdzz/6e6wOOvieMdwBgqog/sD2vqbCyzH64fZFYLZ5W35f6mCeOM9lBhdTV1uOBbH6meQ2FkpF76LvNcP3mmH9keKSSn7pZzvd41LMcY8cj1z+s3oq4ytii5GGC5xVUhtDwcu4woPR/P9b8oUTAPpqLBErQJ4zlAlumNDSfctMoZ+GNKE+W8gIonnyWjbJY2N88PZW+gDFgzbjLD7o35dTGfpLqYqHV9L/6GvvnfN45k9vXh/Teuj/6bNU8jUKdTUWiazfKzyqaX5FrymCPhqFnYHpnhnygFSvteCQCCAaYM+avwYjyk0PRb/rFD7p8ph2MjNivRgw52uyozO/L+LmrFIv0kXOkB69D27hrjm"
+      
+ } 
 
    ],
 
@@ -77,5 +91,7 @@
 "true": "True ဆင်းမ်အတွက် \nစမက်မလို ဘေလ်သုညနဲ့ချိတ်ဆက်ပါ",
 
 "ais": "Ais  ဆင်းမ်အတွက် အသုံးပြုနည်း \nAisဆင်းမ်ဆိုရင်...ပက်ကေ့ချ် ၂မျိုးဝယ်ပြီးမှချိတ်ဆက်ရမည်𝗔𝗶𝘀 𝗣𝗹𝗮𝘆𝗣𝗿𝗼 တစ်လစာပက်ကေ့ချ် ဝယ်ယူရန်*777*885# 📞 ၅၉ဘတ်*777*7067# 📞 30ဘတ်"
+
+
 
 }
