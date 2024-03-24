@@ -1,7 +1,7 @@
 {
 "Reward": "ca-app-pub-8278924142679566/3633327904",
 "Inter": "ca-app-pub-8278924142679566/4946409574",
-"version": 14,
+"version": 15,
 "message": "ဆာဗာအသစ်တွေထပ်မံဖြည့်ထားပါတယ်ဗျာ့ \nUpdateစာကိုနှိပ်ပါ😊",
 
 "files": [
@@ -67,6 +67,21 @@
       
  }, 
 {
+        //true-8
+      "config": "dmjLKrSN3yynoQ8bt1YonNmpBcMfzGZf72CsBTq6mD49+X97437mEwIrYOQcTZK6A+v771SsAdjkBfyia0rJxP/fIRLSyPvs0lKbvqXYKjuRVWN/ZNlMIDDyP/uaVYZqlTM20WLNGdg5y74LhO3TkA5F9WGI4caGoSZ63wgFVQcX9mN4oHoSD3DScRTDfJ4OiiyAkAkErxBK3RJYH+ghWx9/qyBmiNF80QTKZqDJqYuLknx6Yt8/Aowux0wjI5dZzX6tM2y1qsDvboS/NxaTcoB/qtNmoDBFzC3fNn0qRdt/sXHjA/sKBrYFTxBS2IS8eFiIM2eQd9cayNzr1WPC8a4DMiC+dXdLLi+rhJYCwMfq0Y7OzE88bTFvq3VSesL/fpTLIgAH1XWnYUb3tBHVMPsXgd0WwSaVEUadDBiOHs8="
+      
+ }, 
+{
+        //true-9
+      "config": "pg3q8MFNMRM13IQ2EbVY9QnLuniGQ6YO/kQvCzAMaT7JHkQuiwV/fsvDPdqPQGoK8FaRPZ3fjR3t/W8FPWGcne6tVKC9SATmUbTecni5lOJQbDuZJJtalqAsyqPa5pEYFub/dtioYd4yJePCTTVZb0f4wtDua7f6imuRgsctXEjRcpnh0/2dzkCGUT6mIbKDgudL66nuWGGNYV1LzglVf9Yr008cA6YJcOpQXnDMdjSqWg58pSGEpTlfjTwwjFCU2yu/ROlIEI88fuMK4znmnXJKxa6oGqt9xoFpBWQoAcnWXk3Nm6oQ0J9jqKNl307Cna4Nu1jsFEzxFGzu5ZaKTNYmTbfgDuSuNfw0WSBC6nI2/ftEOvIJqOXPQlwWFJr8MlD9jOe0fexZ7ep7YTd2+iqqUpH423xD6NR2ynjkgfQ="
+      
+ }, 
+{
+        //true-10
+      "config": "qK/F1FHIswVo1IvsUeEIdd7HzWqxOX0vde5va+Xfc+uL7LRX5u0HpimMxkF9Xu59qWJjF7eQhR0x0zuL4UH44kQlRFs+lkcchS17IWr+vPnJBdu/DmzeOqCnzwMz5PvqkupqUPTdA0AXVzqjR123/et8KPcLiYAHe/oVk59ZmRaSS2D/j9CWHuL+tz4cWfKM+G8K0Jlkzizo5C7w0flJQVtZ0Hi0ibPLwBNAt5ntdOnxZbxsOaGSrqklshm3yId/mZRCvCBTPVneRrPWvP/qxFsy0IdCNhjFqH9OQfwznwP2ks+kOsm8j7kJHSAcpyfE5eqquam+9nK9bMXhu0NQ133Rp2LlruqfAykPZ3hEz9Oj0ys6YutUu5W6w1wzEniDS5rG59nheOZFCNaQO1YU9w/xRE4YI1hk2cPfmRZmqhg="
+      
+ }, 
+{
         //ais-1
       "config": "/YWrqAfI0jmw1Mf1tl+lg1Kzc80Hx4UQYvWTaiv9qFSp2uU/i47PIVY8rgsZUIsW1QsmCiuC/uGQ5+7oCoZw5ajPrzKjc/swkIyyBHj/gqrYgSVIbxsNG1Oc8RBSQRzvaxgaJ3T43pBKYk2FJk3/SAfP4x63pfpxgsu5CHhojreliHNI/qitU0FHpF62GKoF/EeUxbXrPbK+HORuZlht6PNpQm+fosNSOVaIZvT7HhOLmvBlkUr109sDVA4y1U4sOCNW2ga8BeQMz0V7aCvobDgQA3SVMx0d+SGQpVh4J7m5mctSsgNJ72pz8+FBTjroJboD/3K44vxL92qb99vX9GsaTcjpSmHYrNWHM9fqnbtz0GQtehEqq7ga+LNpVif5DJGmPq2UEhDsdHl0TkXo76NDfmjrp8ZzzGT8JzA8ndZc8iaTnR7+MD5ULCc="
       
@@ -100,13 +115,28 @@
         //ais-7
       "config": "x1wCNiK0p3rEDh1T+MY/rcUe6OTp+ShfD6is/4df+gSSDwjWcTQ8b7gzICCwzZcVkFjSJKLXCgj+/x5d7OJjWBgylJWfNNn5v+O50791jn8/0lL7hK4zGXh8/Yfw5YRGcyq4fvm+wlY1K2eh4CjZ7+KvInSlPbxInHRoYBe4Y2AQTXWB6ht6oMefGBVTGxWvgBqRHoLff6diiKRDsaJ4ci0Vh9/4AM/ttyp7ESDG//QIu5339ScNo+ZE6R0+wG52UrrJ98O68BrejF9v81zY7VK5nEpgWJ4kD89SuCrx/iB1/TTmGKse407nBDhrOJy52WAKmaO7KrXHI/lvrGsf5Pn2PouxCasykhWguGqzarDPaG13kmPVQ0Rl/9DUuF3RvFCielcaLd3A+5ZAi4s+V026NghZH1PmzSe8ta7KJTPEAu5bWXzEKy0H4vg="
       
+ },
+{
+        //ais-8
+      "config": "gOxb9OIUCQrQA9VpR0IbA2Pa8mAuX8D/qm9FaDU/TXBAexq1JQ8+g2zS/448VhmFR2eMGFzJTsTxQwZSwtMzjXdMIhXQxj0CdC6Z07Nme/uqKP4DJa/PeV34hdjm1ePApnkAWVGSRmfDj0rWeV0SZwjbfR4X7tLvx2a4JygxAe09Ozhsx3yrA+xzookBiu1+WIP+kWyb/W01j7pqegBEpcyCACpTMPIfpshAS8SrTTRPRfuevRKTMRgbIz/tq50honCh8oJ9XC4fZQsG4s2uTJPsPUniFGbGv5bSWiO4Arp1tE5YRmAC4uto6b86h19ocItIXzqf/cNJB/dslDJLF9w72EAMa1ToJzS/hpmL7LPqTkREuhlaI9L2rXLT9aHUgARBSAIrl9zllM4YE9G2MQZE2QlNOtdjkt33tEm/suJbU/XC"
+      
+ },
+{
+        //ais-9
+      "config": "Un4z+U06nrNKVBcYpdxFV7wYCt1ljoPlinVan1g86T0BCEIoL9OtepQRMDYrplWwWmxWRpQ3WE4z9Ytd3jV1RpD2dIGqOEH7RpuZ7G1dUtkzlR1hYIHHiAjHGyyHMetvRjLi67xzT2RB0MB4R/KteshpdTJuU5K7WwYzvRG8lW58nadRpE8OHDhtVodf+x1AJDzJlTwHpc3AqIeHHnkW1EhTbcRXU3StxIIDYIRnqwhuybRgVeDgAT3b+KRJYBE5S08uTuaDrD5esk7XI5ITXKz0mSRiU9KG7aq1ctZWb53DE7RNwYuDgVP1OFUGw+ahiwACvm+K+ECQ7pnmK8mYsqIo5CDQ1bmDUXwK8BfKhgTkh+EyM9tmoL6JgcRj2psdl8mdmRM0x57BDttwj6L0zrobZaTS8hFH6wS4d+ZsTbzWZvZT"
+      
+ },
+{
+        //ais-10
+      "config": "HWyQ2tRXC0AofQVplOjAna3QF5QTc6qEJpBLacGIuB/L0QQOhgayAMmwOhKqT1+m1GweI7hEsN1Qw4bZaX7odoHGel4XhRQkhPU2/Ks+VlPLSPzdktbJ2xqI3pjEs+sVxN796+MhOXGv08WUC7sIQWhW21xYCUh6punlbwww0zuIjMfb6gRE7BnfXmMYqVLzySR4MFwketkDiGVO5wiZJcK8JuBFD4IqaYavNrNo9VnZldHSuBCXIX/61bf6F4RkfmCmFFwVV8e97A3GKBYO2+cJR4A1QERbu/HGPXI5+jLUHo1r0mWkMyxL44bmvaEFZcEeM/gQ7M/TmD4tJmALZ7E1q0ao4Qvi0FOU0qYFRTExyGTTCa0VQm/BnJ5YdNq47kHM1sdqHzUNKzirU4Pw64Ou4QGlZxqMgFaLVr+R4mmSf27a"
+      
  } 
 
    ],
 
 
 
-"dtac": "Dtacဆင်းကဒ်အတွက် \nစမက်မလို ဘေလ်သုညနဲ့ချိတ်ဆက်ပါ",
+"dtac": "Dtacဆင်းကဒ်အတွက် \nလောလောဆယ်မရသေးပါဗျာ့ရတဲ့အခါမှအပ်ဒိတ်ပေးပါမယ်နော်",
 
 "true": "True ဆင်းမ်အတွက် \nစမက်မလို ဘေလ်သုညနဲ့ချိတ်ဆက်ပါ",
 
