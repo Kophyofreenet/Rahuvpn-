@@ -1,11 +1,16 @@
 {
 "Reward": "ca-app-pub-8278924142679566/3633327955",
 "Inter": "ca-app-pub-8278924142679566/4946409555",
-"version": 3,
-"message": "ဆာဗာအသစ်တွေထပ်မံဖြည့်ထားပါတယ်ဗျာ့ \nUpdateစာကိုနှိပ်ပါ😊",
+"version": 4,
+"message": "ဆာဗာဖိုင်ထည့်သွင်းရန်\nUpdateစာကိုနှိပ်ပါဗျာ့😊",
 
 "files": [
 
+{
+         //server-free
+         "config": "c2tJpzr8awxkXXDED0xOIO+rtggIYHndjmcabuMjEpSLdOXUcXdyIHcrqt2OTu0Vsm9ozUxaavkGwIpvfB8yw9av/KqAZRFLdHQKW5Ia//ZHfJ1bWdFdQSga5xDEbCJi9Z/bbhmVENUO8qjbqLC/ISnDmxDSPnD6sEuEUWceoQZpGsPtz5ySAiAXK3PuVdJfubnLbOLGQq5hJP3R9Nj7l90K7I/12wcjYUO+opBSOnfo6o6H10cqawkTablHDDnQKBqoVv+cRD6qpYwI04qTC3fFD7dJ5iL5V7MFarEahJFd5qwg1tbsKUafU4sI47Ohs+BuYknXAWCVyEqP09J1vdhB6l9wyvUniTP2jQQlu4l4tgsP86lGvC913/bX7fHaArLAJyJUl47BPGxxVtEl2ueazZmjR9xyp5fUKxrhr+eFTddMisd+HSboruAM/e8hwm3USI4Xk/B+1ohOdU0L566C+7Tr0HSACX93bL/7DLUDZiEIAApZ1Vqw4Pc2bsPJDlWn37L1mRdjiUOIl6tha+YLyTHfh2MkLa/o70VqVHMZ+IDr3gGd4yIVSROTnRDksMLCiHa/jnrrJnDr"
+     
+},
 {
          //true-1
          "config": "y2J53ydm13DXpiiP2CugNooSUW/WdaEJw6RH9rs0OW0BnSamKfIG5paidLjsYpXwj6LDYldKXN77TKq+KF5nZ3J9JG58bG5d9MN0FKo26/eOh+HXRTjE2/pQLFyjpkodcpeDTLOGmFdpDe7cbGqc68OtC0n6hAMtR8eXyCqlBCArEjSY2lwcveJDkg55x4a2ZGV6w9YcKbaV9BcLbtChDwYpZus3iHLBF1tvFnVbGb/aPCOdyT+wsUlz7xG9JMgVCkVh1BoizSWRKUb1n4o9jilZCWGf72RatqUXwq1kMtGtC356pLchagE1D4Z5Q3usXJM655acaDjMmNDhzlgHoZlo6vvmdll32jOkogiDMXQ5IMASg5/gvftM6nwAd2e07Mwi2n+ghLaBr6UUbKfjZw6TfpEdqlSC0mrxEg=="
@@ -89,8 +94,14 @@
       
  },
 {
+        //ais-Free
+      "config": "zI1OWsEO1vfOmEDbYZnab3w31ZzPvtt7HyyNiwc2htKHH79KgldoiWiSEIjUuhw2FX/Ugi/rT/3tcQsEUrKaVUX0A/6CZQjKoAxE7/Sh4SQWDEKgQmkKXHqtClDerAdxa9wOlSF85S1saj9v2WxvytTa34sEGWEA1lhRJ3AhvS8A3oFuFEEIbMJKTR0cEvHFfP0HuU6Y4NPhCCeYIFuMOia+PDU+ZiU9Y9uWy8GnIsp6xEv4/5QVptFyRsFw/FqA3o2e2AM2Z7z0kluITyjScHEuKTX4v/vE460s1V/tC7drlJPS6r0YcxCwbf+GF8bwazAS0Mu3xFASIatTXYbpkGAKlQKEmMKU4CQrgy0rB3NPANENXYB1d7MCj7jSPr2eIyRS320ej+k6O8cPZUOW8qv5wmdiJyAFsjg2elTLlfeSPClu"
+    
+
+ },
+{
         //true-Free
-      "config": "quOEob3IRiBJNqB9/RA6wf5z69gIy+KuMekAotBNaZpUEYcdSpsQotwcB0bpn6ljEnKz1GuEyF5eTHnZ6bgC/6NzcFJKz8OL+oWG27dTJx4rUG+/wbyY7R5V7kOiWVssKjqYJFZQBLapTY9eWtB+jlhRTqm2k7n9gwDVzf5y5mKyGPofRWDU9hlK0x6lyIzDOLqfY5rSKsXs22SEv9p01lEL6bPx5jUHTpWGvUJB/0Cw2BJZbfuDhPEiCqCDlfxG8tqjwK4yZ1jl0l1KG1hxU/o7fOwi7jHb8zk/N4eXYxxDkw+TK8HCsSix0ifCjyKEKpbeFTmE/Vab5hk2qpJ+bnolE5B6AxqrybS7lvkq3ZQMnOpkpCYaIgYpoUTuo6Pi8JVDIuRWeEDJbZmPhiZBFdpWpmPBY3v66UHDuIZgsG/eO9gGnYiVxw=="
+      "config": "mX6/sY/WxBzO9S3RzGZWMSd95Kutj2u1pkhwHHHzMfRpIpf5AVQ+/OEdzv564bDv8s1ix+T1vxEkNaYd3aQIpn7YO23tPLv2ts/4vwDX+B3/RGk6DyD3EJpN1xt1akQdB/o6P0LwiRQJBtyUNyjqi9hEtJ9a0UXk6R/6bfGqCeVtk1UFl2wunhFCLHLO+3C13ozJnLxWQvMLtmSdWWBatsZZ/TPsM3nqvWLvVvpam6BT43xOppC22vr8qWdzh/XIDQQwCICDYzPthJXp7eyvp1MbcryopTdzrx27Kh7ZqtPQ3jVbVPm4Y2cv6EEqapa4dXmgdvp30BvXXLFcb73QznEBG7YAq5CBWDRlYy4UMI/I9J7wWJNiPSx9fo/cqBnGxMDHaU5ayV1EuihxG4jS2KFuOQd0u3emudJJ+g=="
     
 
  }
