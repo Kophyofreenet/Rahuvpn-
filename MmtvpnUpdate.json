@@ -1,7 +1,7 @@
 {
 "Reward": "ca-app-pub-8278924142679566/3633327955",
 "Inter": "ca-app-pub-8278924142679566/4946409555",
-"version": 4,
+"version": 5,
 "message": "ဆာဗာဖိုင်ထည့်သွင်းရန်\nUpdateစာကိုနှိပ်ပါဗျာ့😊",
 
 "files": [
@@ -95,13 +95,13 @@
  },
 {
         //ais-Free
-      "config": "zI1OWsEO1vfOmEDbYZnab3w31ZzPvtt7HyyNiwc2htKHH79KgldoiWiSEIjUuhw2FX/Ugi/rT/3tcQsEUrKaVUX0A/6CZQjKoAxE7/Sh4SQWDEKgQmkKXHqtClDerAdxa9wOlSF85S1saj9v2WxvytTa34sEGWEA1lhRJ3AhvS8A3oFuFEEIbMJKTR0cEvHFfP0HuU6Y4NPhCCeYIFuMOia+PDU+ZiU9Y9uWy8GnIsp6xEv4/5QVptFyRsFw/FqA3o2e2AM2Z7z0kluITyjScHEuKTX4v/vE460s1V/tC7drlJPS6r0YcxCwbf+GF8bwazAS0Mu3xFASIatTXYbpkGAKlQKEmMKU4CQrgy0rB3NPANENXYB1d7MCj7jSPr2eIyRS320ej+k6O8cPZUOW8qv5wmdiJyAFsjg2elTLlfeSPClu"
+      "config": "vmess://eyJhZGQiOiJyaHZwbi5tbXR2cG4uY2xvdWQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy5zcGVlZHRlc3QubmV0IiwiaWQiOiJhYjBhMmFlOS1lNTQxLTRjZmItYTUyNS1iYzgyZjhmZGVmOTAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiJBaXPwn5SlRnJlZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     
 
  },
 {
         //true-Free
-      "config": "mX6/sY/WxBzO9S3RzGZWMSd95Kutj2u1pkhwHHHzMfRpIpf5AVQ+/OEdzv564bDv8s1ix+T1vxEkNaYd3aQIpn7YO23tPLv2ts/4vwDX+B3/RGk6DyD3EJpN1xt1akQdB/o6P0LwiRQJBtyUNyjqi9hEtJ9a0UXk6R/6bfGqCeVtk1UFl2wunhFCLHLO+3C13ozJnLxWQvMLtmSdWWBatsZZ/TPsM3nqvWLvVvpam6BT43xOppC22vr8qWdzh/XIDQQwCICDYzPthJXp7eyvp1MbcryopTdzrx27Kh7ZqtPQ3jVbVPm4Y2cv6EEqapa4dXmgdvp30BvXXLFcb73QznEBG7YAq5CBWDRlYy4UMI/I9J7wWJNiPSx9fo/cqBnGxMDHaU5ayV1EuihxG4jS2KFuOQd0u3emudJJ+g=="
+      "config": "vjjKRSue77OFbkAPf4/3OghmyXKdM1eqBpwHzsCmcZn2TUlJRTiKuvgfgJfoXcmDk4h/ymUMaVQqSb9PRHgLkM5h+BVJKReJ0/z138ytEH8KWJhge9e0QKdQPSPNChTI0Af68yf+9F+qec/WzVG11t1ZFlaIJQiJUrP/k+jJyvS28ruq0T6qiUX9v6C9P+4dhSXjkR7TEgiy5vv5qM01QdPaRKRtFZo0uwLHGLdHtDwDSacD54m5arpCZ+9vT12gTMI6ASthFX6Y/DR72tkr9EK5HjdGR5YgjYOP8LcR2oiM0wkLSm9LTPXz5kuwMuB081JwD4f4bnGWs9PI4VKbff081pJapetiHsUq9ZMmw4oPdkjvrhihZTzaineZR5kTCZCyvIIQPYQTf8xvDXsVqlMWRfZwXjiCI5UHNr2vTtpFmIWU"
     
 
  }
