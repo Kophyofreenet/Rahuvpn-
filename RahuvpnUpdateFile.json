@@ -1,8 +1,8 @@
 {
 "Reward": "ca-app-pub-8278924142679566/3633327904",
 "Inter": "ca-app-pub-8278924142679566/4946409574",
-"version": 24,
-"message": "Gameဆာဗာအသစ်တွေထပ်မံဖြည့်ထားပါတယ်ဗျာ့ \nUpdateစာကိုနှိပ်ပါ😊",
+"version": 25,
+"message": "MyanmarAllSim-အတွက်ဆာဗာထည့်ပေးထားသည်\nUpdateစာကိုနှိပ်ပါ😊",
 
 "files": [
 
@@ -27,11 +27,6 @@
       
  }, 
 {
-        //true-5
-      "config": "G3glFHD2n7+wq2y/dgNUWkUJ5cXkr2Uh2QCNDjGNoU6HRuQVQw4xsZmM1M3gibjQdkKq3Q8xrjMzPa8X/7sI+0Z2aZ1DnlSOO10M8sGXq0EE0rlr6FhhMEIRERIFk44tfLpUAMOVaIex4rCRPiCW2TV8ZwReD/D+cmcg/BcBadGz6tzjIw4cdtzIv90Xn9nCJS7vdiY++CVg45bAwG7OhbITDXixz3XDE787xllwSr8/KUso5uPkOGTU6r0Z5rCMxD8BgfMYXg8uOWPRakmPdx9SsqOo7soojKyvPOBEm3yGV5CWz6722OjS2Cq07kYC4PNwr3Ky+Te4iWa41kvX6w/ZtkCWrN4s8O8aRWQ33/dFEGtBZx7vFkHryZWDJpYSXOw2h6q9quHOVYuUudbwfP824NI6YW6mJiMxdl49NQswfbY/qwTuZg=="
-      
- }, 
-{
         //ais-1
       "config": "YHJ9R7jI0slKjsIJmL8ha6Xe59UhMJM0KqJpxTrxw/xKjtAPd8oNPgIL6IPKQ+CHE4tb1+V1KNuB/yySjU3gpWGpJn5DFe+BeaZ12zq957CtvV99yuKHMpCjoOgvI2Ca7ZSQIO4YV7Jq+KbAj46U71OMGPSf3e1mDFRwbCzKRvkOn1Wgp9bu9VBU5ifcxO10Fgr2/drPy2F7YeXoZxFxN9FzFwhJVC5kQ3b8U6CBqLTev1kz0//aD4A50TBfHCVYIhKoi/kXyw9lqw93DLEJ5uOMYjc4rQG8cMhx4ZB+B9lRHD3aSw5HVWvkFpeutnqVCYw11SBFDfgpkco8HRCSK1O8u4vD3PLxRfLoW48FSgFMGasYeclezGxAoZrPfFADIJTURjyCKKlG+9W2NzPRpFGkedsgGhAriJTQTA6qAmgKLsVE"
       
@@ -52,23 +47,13 @@
       
  },
 {
-        //ais-5
-      "config": "oIic5KmS89D9K0BUalEuo5cd56+dcPf563RrxwXIOFrW+kM7ks58cCJsvopgHOaHxkK1SI7iyk5UOdqy8AGLtV4k7I74UPlr6aYWjursuGtHDuD3s7VDzDBN5fdWQt7ix5DUSkoyNP7+oRRzS5AyyIKCyC4te+1sznUFXMzaSn+1kGZPiy/1ZeXqz1S7M4+thpMiyEYcWpiXIIAJjLBvzm65VEz2OcQF0lZ+6zbpIQ6jT7EoajwKxQQoVnHbYUG0YdjuwNtIGj+HjBSJOaCAdEZ91JKzmJzVcVH3kcm8LTCjzXzqIb0jneVs0K2JWJgfJWI24h+cKxqvn5oI/opSRo8fP8oceHcrV9K+/Rf3l6wJQQeB89fbpgn3iw5wuHpVLgOPQQ0NFoK9MmC6r5Zu/feW3TkQS1PT4yktUJN8nCeGf3sE0truhw=="
-      
- },
-{
         //mm-1
-      "config": "nnTBVnb+UEcZiF1EqxK6anwuoBGCnU2J7kdX5ZEfy70A51F4wLxorUVSzyB6UcAZBgMVOuQ24S/8n0zlNsvEUpp1D4iatm6aDRTF3gKjhPviLYExieM2lfs4s4UzXkIXHvNKcj3lEZnVHdP8ZWSVUcLkzn+4dPqTglNR1JU4YTA="
+      "config": "zXdXOmf4sTeBGAXKoMysNDORKi5YKU7M603UJ9yRz1YXwDAPUQK9yAEy0b903ijNhpzY+tcqjaJRp4xzF12j7Xtb5yn+TvbmP/G1ROio7WAp/u2TX2BUr0N12iYSvlHw3AYSYlpnpCzzAvTsXK/qn8ru6XH4Aq9MmB06VDA9ocY="
       
  },
 {
-        //sg-2
-      "config": "Es5Old/Tm5OaDyFVScUL5yLU0e5Ly2Zvk8b6rJ4feJmO2PUogOPGPHXE19v6dfCYtCsaUV+ZpNhtTA2E7YU2GZqO6TPX4sq4O9TgqutRkJOxq3K6qakmUAlbV/W/Cc4WcCGpw9PVq5QzmZwUS/EWMZzuik99wPseLKyCaXrJj5ZhOhCoWPqcd74deZYVowPbkgOAoey8K9SUi8uq40KRpnRtChYtl3e4CgPTREl8qR3tA8TiDMMLDa8+r2Wq7/UXpGIBtr40s9toynhQqmDDgG3WWscyoL+0OyaWEGwYW86JwA6ydgCw/PuFKtTu/pBjT//rxfYTZfn2R/JBvop+y5dew8vQPTjGTzFtUxm2Gx5RcqGFV+ozCw=="
-      
- },
-{
-        //sg-3
-      "config": "p7zUTL8ZXEmtEhEz5NeuFfnpyq1FPtaLUhejeTPjYQI/j1iPebOIbgWETK1VG+WcI0kNi+oPcaLIizKZ/Tq/0QnaP0N/Du7ZhXyPmUWOzXwnRTsutgkzdR5uMhfx1m+pof/aTgWtf7fzetCgZBEtASketnoe6Uzp6wfrwaVGo0OHFiGei25qEuNkcLOBPCcVexq4cRNzE6gV4lPntMDS6QgvSEWx41zX47xvmVObWBcmJzDbXGC8mLFpAHBn8I6eaKwmra9eL3esvdPd47612mkPAa5Cd9JPQNeeRRyzQ/276yeMHCR5IXCmjwtiZPbt/TFd0vsEnROjqeIgyPvTgSkhBcSgvPLxHkVEv75bHuFPbRQz9aMXaQ=="
+        //mm-2
+      "config": "oedt/HrCQJqKB8+S0CGDiiqtJruUqRKSqNe05TcUvGqwzmK8jG5cXAgIrkPnEVacImZh/ZzsuenR38KKrwYlFGOCDbrHNdpBGYzD3kD6RzJ+RuBcDfziQZLP0PWEG8vCFTVYmiZusJI8dHnwEVa/vaJH52qkQPUPD8TZHfZTZnY="
       
  }
 
