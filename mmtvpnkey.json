@@ -2,21 +2,21 @@
 
  {
 "Name":"မိုးစက်ရှိန်း",
-"Key":"26d5e08655daa4e1",
-"Valid":"35",
+"Key":"",
+"Valid":"30",
 "Expiration":"08\/08\/2024"
 },
 
  {
-"Name":"KoGyi",
-"Key":"ea227fc5427bb1b6",
+"Name":"မျိုးထွေး",
+"Key":"76303c9991fc4ecd",
 "Valid":"30",
-"Expiration":"02\/08\/2024"
+"Expiration":"03\/08\/2024"
 },
 
  {
 "Name":"ဖီးလ်",
-"Key":"670d9fa5428d1d62",
+"Key":"",
 "Valid":"30",
 "Expiration":"02\/08\/2024"
 },
@@ -24,7 +24,7 @@
 
  {
 "Name":"မျိုးနိုင်ဝင်း",
-"Key":"1b7363ce2ecaad8a",
+"Key":"",
 "Valid":"30",
 "Expiration":"02\/08\/2024"
 }
