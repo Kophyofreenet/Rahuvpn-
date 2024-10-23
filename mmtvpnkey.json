@@ -15,23 +15,23 @@
 },
 
 {
-"Name":"Mapan",
-"Key":"3ea5c55f9234f79d",
-"Valid":"31",
-"Expiration":"23\/11\/2024"
+"Name":"ဉာဏ်ဖြိုး",
+"Key":"0a999cb21353e555",
+"Valid":"30",
+"Expiration":"22\/11\/2024"
 }, 
 
  {
 "Name":"ပိုးကဗျာ",
-"Key":"aed21d7943a15ee4",
-"Valid":"71",
+"Key":"",
+"Valid":"70",
 "Expiration":"02\/01\/2025"
 },
  
  {
 "Name":"Kohtet",
-"Key":"12208c4435452801",
-"Valid":"31",
+"Key":"",
+"Valid":"30",
 "Expiration":"23\/11\/2024"
 },
 
