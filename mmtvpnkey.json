@@ -19,18 +19,11 @@
 "Key":"",
 "Valid":"72",
 "Expiration":"29\/01\/2025"
-}, 
- 
- {
-"Name":"အမေ့အိမ်",
-"Key":"47c76f9b8cb0afa9",
-"Valid":"30",
-"Expiration":"19\/12\/2024"
 },
 
  {
-"Name":"ဆန်းသစ်",
-"Key":"7f8b4059fd5729b1",
+"Name":"ခြွန်းလဲ့",
+"Key":"d21abcc3a3a62c0e",
 "Valid":"30",
 "Expiration":"19\/12\/2024"
 },
