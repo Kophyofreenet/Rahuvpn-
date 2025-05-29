@@ -8,10 +8,10 @@
 },
 
  {
-"Name":"ကိုရာ",
-"Key":"",
+"Name":"ATZM",
+"Key":"4ff33cabb231f8c",
 "Valid":"70",
-"Expiration":"01\/08\/2025"
+"Expiration":"07\/08\/2025"
 },
 
  {
@@ -23,20 +23,20 @@
   
  {
 "Name":"ရွှေဖူးလေး",
-"Key":"03c4be7f375dbef8",
+"Key":"",
 "Valid":"30",
 "Expiration":"27\/06\/2025"
 },
  {
 "Name":"လဲ့လဲ့ဖြူ",
-"Key":"60833e3ae1693d5f",
+"Key":"",
 "Valid":"30",
 "Expiration":"27\/06\/2025"
 }, 
   
  {
 "Name":"ရဲလင်းထက်",
-"Key":"5a326068632d7a7c",
+"Key":"",
 "Valid":"30",
 "Expiration":"27\/06\/2025"
 },
